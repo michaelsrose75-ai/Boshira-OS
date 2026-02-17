@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AI Agent Launchpad",
+  "description": "An application that generates complete business blueprints for autonomous AI 'agents'. It focuses on high-profit, low-overhead digital products and includes detailed financial projections, tax-aware profit modeling, and a legal & compliance roadmap to guide users from concept to launch.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
